@@ -1,0 +1,10 @@
+.DS_Store
+.obsidian
+
+pathBook.md
+# 依赖
+package-lock.json
+package.json
+node_modules
+libs/
+dist/
